@@ -1,5 +1,5 @@
-# Emotion_detection_model
-simple Emotion_Detection using Machine learning
+# Psychoson AI 
+ Emotion Detection and Mental Wellness Companion
 
 to use our Emotion Detection Model
 1.just clone or download and unzip our resporatory
